@@ -10,11 +10,11 @@
 
 int main (){
     int a;
-    double quintaparte, resto, septimaparte;
+    double a2, quintaparte, resto, septimaparte;
     
     std::cin>>a;
     
-    quintaparte=a/5;
+    quintaparte=a2/5;
     resto=a%5;
     septimaparte=quintaparte/7;
     
